@@ -1,0 +1,7 @@
+/* Ingrandisce il logo testuale nella sidebar */
+.sidebar .site-logo a {
+    font-size: 1.8em; /* aumenta o diminuisci */
+    font-weight: bold;
+    color: #333;
+    text-transform: uppercase;
+}
