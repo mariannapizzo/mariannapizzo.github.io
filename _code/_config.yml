@@ -1,0 +1,37 @@
+title: Marianna Pizzo
+email: marianna.pizzo.12@gmail.com
+description: "Portfolio & Projects"
+baseurl: ""
+url: "https://www.mariannapizzo.com"
+
+#twitter_username: MariannaPizzo
+#github_username: mariannapizzo
+
+# Build settings
+theme: just-the-docs
+
+plugins:
+  - jekyll-feed
+  - jekyll-scholar
+
+scholar:
+  style: _bibliography/mystyle.csl
+  bibliography: publications.bib
+  order: descending
+  sort_by: year
+  bibliography_template: bib
+
+
+
+# Just the Docs options
+repository: https://github.com/mariannapizzo/mariannapizzo.github.io
+#docs_dir: "_docs"
+#toc: true
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - publications.md
+  - teaching.md
+
+search_enabled: false  

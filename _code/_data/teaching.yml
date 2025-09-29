@@ -1,0 +1,28 @@
+- year: 2022-2023
+  courses:
+    - title: Programming Fundamentals (teaching assistant)
+      program: Bachelor’s in Biomedical Engineering
+      page: https://corsi.unige.it/off.f/2022/ins/59138
+  theses:
+    - title: Co-advisor of a Bachelor's Thesis in Biomedical Engineering entitled "A serious game for the assessment of the figural fluency", University of Genoa
+    - title: Co-advisor of a Bachelor's Thesis in Biomedical Engineering entitled "Development of an Immersive Virtual Reality Environment to Execute Cognitive Exercises”, University of Genoa
+
+- year: 2023-2024
+  courses:
+    - title: Programming Fundamentals (teaching assistant)
+      program: Bachelor’s in Biomedical Engineering
+      page: https://corsi.unige.it/off.f/2023/ins/66424
+    - title: Introduction to Programming (teaching assistant)
+      program: Bachelor's in Computer Science
+      page: https://corsi.unige.it/off.f/2023/ins/66523
+  theses:
+    - title: Co-advisor of one Bachelor’s Thesis in Biomedical Engineering entitled “Realizzazione di un exergame per la riabilitazione dell’arto superiore in pazienti pediatrici”
+
+- year: 2024-2025
+  courses:
+    - title: Introduction to Programming (teaching assistant)
+      program: Bachelor's in Computer Science
+      page: https://corsi.unige.it/off.f/2024/ins/77629
+    - title: Algorithms & Data Structures (teaching assistant)
+      program: Bachelor's in Computer Science
+      page: https://corsi.unige.it/off.f/2024/ins/77616
