@@ -33,5 +33,8 @@ header_pages:
 #  - projects.md
   - publications.md
   - teaching.md
-
+  
+  
+ga_tracking: G-9BWJM7BXKL
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 search_enabled: false  
