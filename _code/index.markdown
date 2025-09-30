@@ -11,7 +11,7 @@ nav_order: 1
   <img src="/assets/images/MariannaPizzo.png" alt="Marianna Pizzo" style="width:300px; height:auto; border-radius: 100%;">
 </p>
 
-I am a PhD Candidate in Computer Science at [Perception and Interaction Lab](https://pilab.unige.it) in the [DIBRIS](https://dibris.unige.it/en) department of the [University of Genoa](https://unige.it/en) specializing in Extended Reality (XR) and interactive systems. This is my [University Profile](https://rubrica.unige.it/personale/UUBEWF9r).
+I am a PhD Candidate in Computer Science at [Perception and Interaction Lab](https://pilab.unige.it) in the [DIBRIS](https://dibris.unige.it/en) department of the [University of Genoa](https://unige.it/en) specializing in Extended Reality (XR). This is my [University Profile](https://rubrica.unige.it/personale/UUBEWF9r).
 
 ## Research interests
 
