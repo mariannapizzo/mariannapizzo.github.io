@@ -1,24 +1,24 @@
 {"0": {
-    "doc": "About Me",
-    "title": "About Me",
-    "content": "Hi! I’m a bioengineer and XR enthusiast, working with simulation and interactive web technologies. | PhD Candidate in Computer Science and Systems Engineering | Experience with XR exergames and interactive systems | Interested in simulation, web, and immersive technologies | . ",
-    "url": "/about.html",
-    
-    "relUrl": "/about.html"
-  },"1": {
     "doc": "Home",
     "title": "Marianna Pizzo ",
-    "content": ". I am a PhD Candidate in Computer Science at PILab in the DIBRIS department of the University of Genoa. This is my University Profile. ",
+    "content": ". I am a PhD Candidate in Computer Science at Perception and Interaction Lab in the DIBRIS department of the University of Genoa specializing in Extended Reality (XR) and interactive systems. This is my University Profile. ",
     "url": "/#marianna-pizzo-",
     
     "relUrl": "/#marianna-pizzo-"
-  },"2": {
+  },"1": {
     "doc": "Home",
     "title": "Research interests",
-    "content": "My research focuses on: . | Extended Reality (XR) applications | Human-computer interaction | Simulation and interactive systems | . ",
+    "content": "My research focuses on: . | Design, development and evaluation of Extended Reality (XR) applications | Immersive visualization technologies | Human–computer interaction and user-centered design | Applications of XR in motor rehabilitation and education | . ",
     "url": "/#research-interests",
     
     "relUrl": "/#research-interests"
+  },"2": {
+    "doc": "Home",
+    "title": "About me",
+    "content": "With a background in bioengineering and a passion for immersive technologies, I focus on the design, development, and evaluation of XR applications. My research spans human–computer interaction, immersive visualization, and interactive technologies, with a particular interest in their applications for motor rehabilitation and education. Beyond my research activities, I am actively engaged in the XR community. I am part of the organizing committee of XRehab , a workshop within IEEE ISMAR 2025 dedicated to XR for rehabilitation. I am also a member of the DoCS group an association of PhD students in Computer Science that promotes seminars and other initiatives to foster collaboration and exchange of ideas among doctoral candidates. Within this context, I helped organize two editions of the Computer Science Workshop 2023 and Computer Science Workshop 2024. The CSW is a unique event fully organized by PhD students, aiming to provide peers from different areas of computer science with a broader perspective on the discipline. Each year, the workshop hosts high-profile academic speakers from diverse subfields of computer science, both Italian and international, and includes contributions from local companies to showcase industry perspectives and research opportunities. Currently, I also serve as PhD students’ representative within the DIBRIS department, an experience that has strengthened my organizational and coordination skills while fostering collaboration across disciplines. ",
+    "url": "/#about-me",
+    
+    "relUrl": "/#about-me"
   },"3": {
     "doc": "Home",
     "title": "Home",
@@ -27,55 +27,34 @@
     
     "relUrl": "/"
   },"4": {
-    "doc": "Projects",
-    "title": "Activepaws Exergames",
-    "content": "Interactive rehabilitation games for children, controlled via wearable sensors. ",
-    "url": "/projects.html#activepaws-exergames",
-    
-    "relUrl": "/projects.html#activepaws-exergames"
-  },"5": {
-    "doc": "Projects",
-    "title": "XRSimulations",
-    "content": "Simulation projects in immersive environments, 3D visualization, and web deployment. ",
-    "url": "/projects.html#xrsimulations",
-    
-    "relUrl": "/projects.html#xrsimulations"
-  },"6": {
-    "doc": "Projects",
-    "title": "Projects",
-    "content": " ",
-    "url": "/projects.html",
-    
-    "relUrl": "/projects.html"
-  },"7": {
     "doc": "Publications",
     "title": "Publications",
     "content": ". | Manuela Chessa, Michela Chessa, Lorenzo Gerini, Matteo Martini, Kaloyana Naneva, Marianna Pizzo, Fabio Solari, and Paolo Zeppini. Cooperation in Virtual Reality: Exploring Environmental Decision-Making through a Real-Effort Threshold Public Goods Game. In: IEEE Conference on Virtual Reality and 3D User Interfaces, VR 2025 - Abstracts and Workshops, Saint Malo, France, March 8-12, 2025, pp. 1538–1539, IEEE, 2025. Abstract . BibTex . Loading... Copy in clipboard Download citation | Hannah Owens Svennungsen, Ekaterina Prasolova-Førland, Marianna Pizzo, Mikhail Fominykh, and Heidi Fossen. Exploring and Applying Virtual Reality in Career Guidance: Pedagogical Applications, Skill Development, and Adoption in Practice. In: Accepted at CyberWorlds (CW) 2025, Track: Cognitive Human-Machine Interaction 2025. Abstract . BibTex . Loading... Copy in clipboard Download citation | Marianna Pizzo, Andrea De Filippis, Fabio Lazzari, Jacopo Romanò, Lorenzo Garavaglia, Eleonora Diella, Giuseppina Sgandurra, Sabrina Signorini, Fabio Solari, Simone Pittaccio, and Manuela Chessa. ActivePaws and Playcuff: Pilot Evaluation of a Non-Immersive Exergame Suite Controlled by a Wearable Device. In: Accepted at XRehab Workshop 2025, adjunct proceedings of IEEE ISMAR 2025 2025. Abstract . BibTex . Loading... Copy in clipboard Download citation | Marianna Pizzo, Matteo Martini, Fabio Solari, and Manuela Chessa. Immersive versus Non-Immersive Virtual Reality Environments: Comparing Different Visualization Modalities in a Cognitive-Motor Dual-Task. In: Bashford-Rogers, T., Meneveaux, D., Ammi, M., Ziat, M., Jänicke, S., Purchase, H.C., Radeva, P., Furnari, A., Bouatouch, K., and Sousa, A.A. de (eds.) Proceedings of the 20th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, VISIGRAPP 2025 - Volume 1: GRAPP, HUCAPP and IVAPP, Porto, Portugal, February 26-28, 2025, pp. 561–568, SCITEPRESS, 2025. Abstract . BibTex . Loading... Copy in clipboard Download citation | Marianna Pizzo, Eros Viola, Fabio Solari, and Manuela Chessa. Evaluation of 3D Reconstruction Techniques for the Blending of Real and Virtual Environments. In: IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VR Workshops 2024, Orlando, FL, USA, March 16-21, 2024, pp. 360–367, IEEE, 2024. Abstract . BibTex . Loading... Copy in clipboard Download citation | Manuela Chessa, Lorenzo Gerini, Razeen Hussain, Matteo Martini, Marianna Pizzo, Fabio Solari, and Eros Viola. Extended Reality and Artificial Intelligence for Exergaming: Opportunities and Open Challenges for Rehabilitation and Cognitive Training. In: 8th IEEE Forum on Research and Technologies for Society and Industry Innovation, RTSI 2024, Milano, Italy, September 18-20, 2024, pp. 357–362, IEEE, 2024. Abstract . BibTex . Loading... Copy in clipboard Download citation | Manuela Chessa, Giorgio Delzanno, Davide Giovannetti, Giovanna Guerrini, Filippo Manini, Davide Miggiano, Marianna Pizzo, and Eros Viola. Work-in-Progress—iCoding: Immersive Coding in Unity. Immersive Learning Research-Academic, :78–92, 2023. Abstract . BibTex . Loading... Copy in clipboard Download citation | Razeen Hussain, Marianna Pizzo, Giorgio Ballestin, Manuela Chessa, and Fabio Solari. Experimental Validation of Photogrammetry based 3D Reconstruction Software. In: 5th IEEE International Conference on Image Processing Applications and Systems, IPAS 2022, Genova, Italy, December 5-7, 2022, pp. 1–6, IEEE, 2022. Abstract . BibTex . Loading... Copy in clipboard Download citation | . ",
     "url": "/publications.html",
     
     "relUrl": "/publications.html"
-  },"8": {
+  },"5": {
     "doc": "Teaching Activity",
     "title": "Academic Year 2022-2023",
     "content": "Courses . | Programming Fundamentals (teaching assistant) (Bachelor’s in Biomedical Engineering) · Course website | . Theses . | Co-advisor of a Bachelor’s Thesis in Biomedical Engineering entitled “A serious game for the assessment of the figural fluency”, University of Genoa . | Co-advisor of a Bachelor’s Thesis in Biomedical Engineering entitled “Development of an Immersive Virtual Reality Environment to Execute Cognitive Exercises”, University of Genoa . | . ",
     "url": "/teaching.html#academic-year-2022-2023",
     
     "relUrl": "/teaching.html#academic-year-2022-2023"
-  },"9": {
+  },"6": {
     "doc": "Teaching Activity",
     "title": "Academic Year 2023-2024",
     "content": "Courses . | Programming Fundamentals (teaching assistant) (Bachelor’s in Biomedical Engineering) · Course website . | Introduction to Programming (teaching assistant) (Bachelor’s in Computer Science) · Course website . | . Theses . | Co-advisor of one Bachelor’s Thesis in Biomedical Engineering entitled “Realizzazione di un exergame per la riabilitazione dell’arto superiore in pazienti pediatrici” | . ",
     "url": "/teaching.html#academic-year-2023-2024",
     
     "relUrl": "/teaching.html#academic-year-2023-2024"
-  },"10": {
+  },"7": {
     "doc": "Teaching Activity",
     "title": "Academic Year 2024-2025",
     "content": "Courses . | Introduction to Programming (teaching assistant) (Bachelor’s in Computer Science) · Course website . | Algorithms &amp; Data Structures (teaching assistant) (Bachelor’s in Computer Science) · Course website . | . ",
     "url": "/teaching.html#academic-year-2024-2025",
     
     "relUrl": "/teaching.html#academic-year-2024-2025"
-  },"11": {
+  },"8": {
     "doc": "Teaching Activity",
     "title": "Teaching Activity",
     "content": " ",

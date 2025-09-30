@@ -11,17 +11,28 @@ nav_order: 1
   <img src="/assets/images/MariannaPizzo.png" alt="Marianna Pizzo" style="width:300px; height:auto; border-radius: 100%;">
 </p>
 
-I am a PhD Candidate in Computer Science at [PILab](https://pilab.unige.it) in the [DIBRIS](https://dibris.unige.it/en) department of the [University of Genoa](https://unige.it/en).
-
-This is my [University Profile](https://rubrica.unige.it/personale/UUBEWF9r).
+I am a PhD Candidate in Computer Science at [Perception and Interaction Lab](https://pilab.unige.it) in the [DIBRIS](https://dibris.unige.it/en) department of the [University of Genoa](https://unige.it/en) specializing in Extended Reality (XR) and interactive systems. This is my [University Profile](https://rubrica.unige.it/personale/UUBEWF9r).
 
 ## Research interests
 
+
 My research focuses on:
 
-- Extended Reality (XR) applications
-- Human-computer interaction
-- Simulation and interactive systems
+- Design, development and evaluation of Extended Reality (XR) applications 
+- Immersive visualization technologies
+- Human–computer interaction and user-centered design
+- Applications of XR in motor rehabilitation and education
+
+## About me
+With a background in bioengineering and a passion for immersive technologies, I focus on the design, development, and evaluation of XR applications. My research spans human–computer interaction, immersive visualization, and interactive technologies, with a particular interest in their applications for motor rehabilitation and education.
+
+Beyond my research activities, I am actively engaged in the XR community. I am part of the organizing committee of [XRehab](https://sites.google.com/view/xrehab/home)
+, a workshop within IEEE ISMAR 2025 dedicated to XR for rehabilitation. I am also a member of the [DoCS
+group](https://docs-dibris.github.io) an association of PhD students in Computer Science that promotes seminars and other initiatives to foster collaboration and exchange of ideas among doctoral candidates. Within this context, I helped organize two editions of the [Computer Science Workshop 2023](https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw23.html)
+and [Computer Science Workshop 2024](https://docs-dibris.github.io/docs/Computer%20Science%20Workshop/csw24.html).
+The CSW is a unique event fully organized by PhD students, aiming to provide peers from different areas of computer science with a broader perspective on the discipline. Each year, the workshop hosts high-profile academic speakers from diverse subfields of computer science, both Italian and international, and includes contributions from local companies to showcase industry perspectives and research opportunities.  
+
+Currently, I also serve as PhD students’ representative within the DIBRIS department, an experience that has strengthened my organizational and coordination skills while fostering collaboration across disciplines.
 
 ---
 

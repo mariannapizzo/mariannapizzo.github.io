@@ -29,8 +29,8 @@ repository: https://github.com/mariannapizzo/mariannapizzo.github.io
 #toc: true
 header_pages:
   - index.md
-  - about.md
-  - projects.md
+#  - about.md
+#  - projects.md
   - publications.md
   - teaching.md
 
