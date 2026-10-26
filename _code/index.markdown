@@ -17,10 +17,10 @@ I am actively seeking opportunities in Italy and across Europe within the **MedT
 
 I am especially interested in the following roles:
 
-- **R&D Engineer** — Development of rehabilitation devices and systems.
-- **Project Manager** — Coordination of projects and clinical trials involving clinical and research centers.
-- **Product & Data Specialist** — Technical support, data analysis, and clinical evidence generation.
-- **Clinical Trainer** — Training healthcare professionals and supporting the adoption of medical devices.
+- **R&D Engineer:** Development of rehabilitation devices and systems.
+- **Project Manager:** Coordination of projects and clinical trials involving clinical and research centers.
+- **Product & Data Specialist:** Technical support, data analysis, and clinical evidence generation.
+- **Clinical Trainer:** Training healthcare professionals and supporting the adoption of medical devices.
 
 <div style="margin: 24px 0; padding: 24px; border: 2px solid #2a7f8e; border-radius: 12px; text-align: center; background-color: #f0f8fa;">
   <h3 style="margin-top: 0;">Let's connect!</h3>
